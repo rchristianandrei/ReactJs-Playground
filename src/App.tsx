@@ -1,4 +1,4 @@
-import Endgame from "./EndGame"
+import Endgame from "./Endgame"
 
 function App() {
 
